@@ -5,6 +5,8 @@
 
 }
 
-.titulo{
-    background-color:  #f1eddf;
+.circulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
